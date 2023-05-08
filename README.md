@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-application-of-recursive-function
+<br>
+<p class="ui header product-top-header" title="Application of recursive function Solution">The assignment is an application of recursive function. With a number pattern that begins with 1, 5, 14, and 30. Write a C++ program that figures out and display the first twenty numbers of the pattern, and then with a user’s choice entered, at the run time, for an ordered number in the pattern, the program displays that element.The program then loops back continuously to accept another user’s choice for any other elements in the pattern to be revealed. Input value was validated to make sure that program won’t be crashed at the run time by any reason.
